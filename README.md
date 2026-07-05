@@ -1,6 +1,6 @@
 # skillinspire-
 This is my first git repository 
-pratap supanavar 
+Author = pratap supanavar 
 the skillinspire is online earning platform for college students 
 🚀 SkillInspire
 Learn. Earn. Grow.
